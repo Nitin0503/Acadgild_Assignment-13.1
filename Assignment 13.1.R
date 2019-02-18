@@ -1,4 +1,3 @@
-x<- read.csv("C:\\Users\\Celebrity\\Desktop\\Data Analytics File\\Edureka_Data\\churn_data.csv")
 View(x)
 y<-x[,-c(1:3)]
 View(y)
